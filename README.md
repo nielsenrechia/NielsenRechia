@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielsenrechia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielsenrechia&how_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielsenrechia&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nielsenrechia/nielsenrechia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
